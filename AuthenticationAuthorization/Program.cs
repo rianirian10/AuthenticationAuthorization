@@ -13,6 +13,7 @@ namespace AuthenticationAuthorization
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
             Console.WriteLine("testestestset");
+            Console.WriteLine("satutututsatestlagi test 1")
         }
     }
 }
